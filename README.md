@@ -6,11 +6,10 @@
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 <p align="center">
-  <a href="https://github.com/uukdesu"><img src="https://github-readme-stats.vercel.app/api?username=uukina&hide_border=true&show_icons=true" alt="uukdesu's github stats"></a>
+  <a href="https://github.com/uukina"><img src="https://github-readme-stats.vercel.app/api?username=uukina&hide_border=true&show_icons=true" alt="uukkina's github stats"></a>
 </p>
 
 <p align="center">
-  <strong><a href="https://www.aizunime.xyz">Website</a></strong> |
   <strong><a href="https://facebook.com/uuk.arif">Facebook</a></strong>
 </p>
 
